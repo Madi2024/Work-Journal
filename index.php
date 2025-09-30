@@ -18,8 +18,8 @@ $now = date('Y-m-d H:i:s');
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
   <style>
     :root {
-      --bg-color-start: #6a11cb;
-      --bg-color-end: #2575fc;
+      --bg-color-start: #4B0082;
+      --bg-color-end: #8A2BE2;
       --text-color: #ffffff;
       --card-bg-color: rgba(255, 255, 255, 0.01);
       --card-border-color: rgba(255, 255, 255, 0.1);
